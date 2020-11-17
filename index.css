@@ -1,0 +1,15 @@
+header {
+  /* width: 80%; */
+  border: 2px solid black;
+}
+
+.logo {
+  font-size: 2rem;
+  display: inline-block;
+  /* border: 2px solid black; */
+}
+
+.logosvg {
+  width: 1.5rem;
+  height: auto;
+}
